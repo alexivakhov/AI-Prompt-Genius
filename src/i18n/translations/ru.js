@@ -90,23 +90,7 @@ export const ru = {
         "Содержание подсказки. Используйте {{}} для обозначения переменной. Например: {{name}} - это {{adjective}} {{noun}}",
     [k.DESCRIPTION_PLACEHOLDER]: "Краткое описание подсказки.",
     [k.ENTER_TAG]: "Нажмите enter, чтобы добавить тег",
-    [k.UPGRADE_TO_PRO]: "Перейти на Pro",
-    [k.FEATURES]: "Функции:",
-    [k.NO_ADS]: "Без рекламы! Убирает всплывающие окна и текстовую рекламу каждые два месяца.",
-    [k.ACCESS_TO_NEW_THEMES]:
-        "Получите доступ к новым темам, включая киберпанк, роскошь и многое другое!",
-    [k.SUPPORT_A_SMALL_DEVELOPER]: "Поддержите независимого разработчика",
-    [k.BUY_A_PRO_LICENSE]: "КУПИТЬ ЛИЦЕНЗИЮ PRO",
-    [k.LIKED_THEME]: "Понравилась тема? Перейдите на Pro!",
-    [k.ACTIVATE_PRO_LICENSE]: "Активировать лицензию Pro",
-    [k.MANAGE_PRO_SUBSCRIPTION]: "Управление подпиской Pro",
-    [k.ACTIVATE_LICENSE_IN_SETTINGS]:
-        "Вы также можете активировать вашу лицензию в любое время в настройках",
-    [k.LICENSE_KEY]: "Лицензионный ключ",
-    [k.ACTIVATE]: "Активировать",
-    [k.CANCEL_MY_SUBSCRIPTION]: "Отменить мою подписку",
-    [k.SUCCESSFULLY_ACTIVATED_PRO]: "Pro успешно активирован!",
-    [k.ERROR_ACTIVATING_PRO]: "Ошибка активации Pro. Убедитесь, что ваш лицензионный ключ верен",
+    
     [k.THEME]: "Тема",
     [k.WINTER]: "Зима",
     [k.LIGHT]: "Светлая",
@@ -130,8 +114,7 @@ export const ru = {
     [k.CONFIRM_DELETE_PROMPT]: "Вы уверены, что хотите удалить этот запрос?",
     [k.CANCEL]: "Отмена",
     [k.DELETE_PROMPT]: "Удалить запрос",
-    [k.OUT_OF_SEATS]:
-        "У вас закончились места с этим лицензионным ключом. Пожалуйста, приобретите еще один на 8 дополнительных устройств.",
+    
     [k.OTHER_SETTINGS]: "Другие Настройки",
     [k.PERSIST_VARIABLES]: "Сохранение Переменных",
     [k.PERSIST_VARIABLES_DESCRIPTION]:

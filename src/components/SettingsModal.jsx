@@ -18,15 +18,11 @@ import {
     setObject,
 } from "./js/utils.js"
 import LanguageSelect from "./LanguageSelect.jsx"
-import { CrownIcon, GoogleDriveIcon, TrashIcon } from "./icons/Icons.jsx"
+import { GoogleDriveIcon, TrashIcon } from "./icons/Icons.jsx"
 import { checkForResync, newToken, unlinkGsheet } from "./js/cloudSyncing.js"
 import ShortcutInfo from "./ShortcutInfo.jsx"
 import ReactGA from "react-ga4"
-import { ActivatePro } from "./ActivatePro.jsx"
-import { ProFeatures } from "./ProFeatures.jsx"
-import Head2 from "./Head2.jsx"
-import Head4 from "./Head4.jsx"
-import { getProStatus } from "./js/pro.js"
+ 
 
 export default function SettingsModal({
     setSettingsVisible,
@@ -48,7 +44,7 @@ export default function SettingsModal({
     const cloudSyncingEnabled = getObject("cloudSyncing", false) === true
     const sheetID = localStorage.getItem("sheetID")
 
-    const isPro = getProStatus()
+    
 
     const handlePageChange = page => {
         setCurrentPage(page)
@@ -240,33 +236,8 @@ export default function SettingsModal({
                                     <h5 className="card-title">{t(k.LANGUAGE)}</h5>
                                     <LanguageSelect />
                                     <div className={"mt-3"}>
-                                        {!isPro && (
-                                            <div>
-                                                <div className={"flex items-center"}>
-                                                    <h2 className={"text-xl font-semibold"}>
-                                                        {t(k.UPGRADE_TO_PRO)} &nbsp;
-                                                    </h2>
-                                                    <CrownIcon />
-                                                </div>
-                                                <Head4>{t(k.FEATURES)}</Head4>
-                                                <ul className={"list-disc ml-6"}>
-                                                    <li>{t(k.NO_ADS)}</li>
-                                                    <li>{t(k.ACCESS_TO_NEW_THEMES)}</li>
-                                                    <li>{t(k.SUPPORT_A_SMALL_DEVELOPER)}</li>
-                                                </ul>
-                                                <a
-                                                    href={
-                                                        "https://link.aipromptgenius.app/upgrade-pro"
-                                                    }
-                                                    target={"_blank"}
-                                                    className={"btn btn-outline my-3"}
-                                                >
-                                                    {t(k.BUY_A_PRO_LICENSE)}
-                                                </a>
-                                            </div>
-                                        )}
-                                        <div className={"mt-3"}>
-                                            <ActivatePro in_settings={true} showToast={showToast} />
+                                        <div className="alert alert-info mb-3">
+                                            <span>All PRO features are unlocked.</span>
                                         </div>
                                         <div className={"mb-2"}>
                                             <h2 className={"text-xl font-semibold my-3"}>

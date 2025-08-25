@@ -98,24 +98,7 @@ export const hu = {
         "Parancs tartalma. Használja a {{}} jeleket változók jelölésére. Pl.: {{name}} egy {{adjective}} {{noun}}",
     [k.DESCRIPTION_PLACEHOLDER]: "A parancs rövid leírása.",
     [k.ENTER_TAG]: "Nyomja meg az entert egy címke hozzáadásához",
-    [k.UPGRADE_TO_PRO]: "Frissítés Pro verzióra",
-    [k.FEATURES]: "Jellemzők:",
-    [k.NO_ADS]:
-        "Nincs hirdetés! Eltávolítja a kéthavonta megjelenő felugró ablakokat és szöveges hirdetéseket.",
-    [k.ACCESS_TO_NEW_THEMES]:
-        "Hozzáférés az új témákhoz, beleértve a cyberpunk, luxus és több témát!",
-    [k.SUPPORT_A_SMALL_DEVELOPER]: "Támogass egy kis fejlesztőt",
-    [k.BUY_A_PRO_LICENSE]: "PRO LICENC VÁSÁRLÁSA",
-    [k.LIKED_THEME]: "Tetszett ez a téma? Frissíts Pro verzióra!",
-    [k.ACTIVATE_PRO_LICENSE]: "Pro licenc aktiválása",
-    [k.MANAGE_PRO_SUBSCRIPTION]: "Pro előfizetés kezelése",
-    [k.ACTIVATE_LICENSE_IN_SETTINGS]: "A licencet bármikor aktiválhatja a beállításokban",
-    [k.LICENSE_KEY]: "Licenckulcs",
-    [k.ACTIVATE]: "Aktiválás",
-    [k.CANCEL_MY_SUBSCRIPTION]: "Előfizetés lemondása",
-    [k.SUCCESSFULLY_ACTIVATED_PRO]: "A Pro sikeresen aktiválva!",
-    [k.ERROR_ACTIVATING_PRO]:
-        "Hiba a pro aktiválásakor. Győződjön meg róla, hogy a licenckulcsa pontos",
+    
     [k.THEME]: "Téma",
     [k.WINTER]: "Tél",
     [k.LIGHT]: "Világos",
@@ -139,8 +122,7 @@ export const hu = {
     [k.CONFIRM_DELETE_PROMPT]: "Biztos benne, hogy törölni szeretné ezt az üzenetet?",
     [k.CANCEL]: "Mégse",
     [k.DELETE_PROMPT]: "Üzenet törlése",
-    [k.OUT_OF_SEATS]:
-        "Elfogytak a helyek ezzel a licenckulccsal. Kérjük, vásároljon egy másikat további 8 eszközhöz.",
+    
     [k.OTHER_SETTINGS]: "Egyéb Beállítások",
     [k.PERSIST_VARIABLES]: "Változók Megőrzése",
     [k.PERSIST_VARIABLES_DESCRIPTION]:

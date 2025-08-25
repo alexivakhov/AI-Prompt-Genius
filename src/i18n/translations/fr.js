@@ -98,24 +98,7 @@ export const fr = {
     [k.PROMPT_CONTENT_PLACEHOLDER]: `Contenu du prompt. Utilisez {{}} pour indiquer une variable. Ex : {{name}} est un {{adjective}} {{noun}}`,
     [k.DESCRIPTION_PLACEHOLDER]: `Une brève description du prompt.`,
     [k.ENTER_TAG]: `Appuyez sur Entrée pour ajouter une étiquette`,
-    [k.UPGRADE_TO_PRO]: "Passer à Pro",
-    [k.FEATURES]: "Fonctionnalités :",
-    [k.NO_ADS]: "Pas de pubs ! Supprime les fenêtres popup bimensuelles & les annonces textuelles.",
-    [k.ACCESS_TO_NEW_THEMES]:
-        "Accédez à de nouveaux thèmes, y compris cyberpunk, luxe, et plus encore !",
-    [k.SUPPORT_A_SMALL_DEVELOPER]: "Soutenez un petit développeur",
-    [k.BUY_A_PRO_LICENSE]: "ACHETER UNE LICENCE PRO",
-    [k.LIKED_THEME]: "Vous avez aimé ce thème ? Passez à Pro !",
-    [k.ACTIVATE_PRO_LICENSE]: "Activer la Licence Pro",
-    [k.MANAGE_PRO_SUBSCRIPTION]: "Gérer l'Abonnement Pro",
-    [k.ACTIVATE_LICENSE_IN_SETTINGS]:
-        "Vous pouvez également activer votre licence à tout moment dans les paramètres",
-    [k.LICENSE_KEY]: "Clé de Licence",
-    [k.ACTIVATE]: "Activer",
-    [k.CANCEL_MY_SUBSCRIPTION]: "Annuler mon Abonnement",
-    [k.SUCCESSFULLY_ACTIVATED_PRO]: "Pro activé avec succès !",
-    [k.ERROR_ACTIVATING_PRO]:
-        "Erreur lors de l'activation de pro. Assurez-vous que votre clé de licence est exacte",
+    
     [k.THEME]: "Thème",
     [k.WINTER]: "Hiver",
     [k.LIGHT]: "Clair",
@@ -139,8 +122,7 @@ export const fr = {
     [k.CONFIRM_DELETE_PROMPT]: "Êtes-vous sûr de vouloir supprimer cette invite ?",
     [k.CANCEL]: "Annuler",
     [k.DELETE_PROMPT]: "Supprimer l'invite",
-    [k.OUT_OF_SEATS]:
-        "Vous avez épuisé les sièges disponibles avec cette clé de licence. Veuillez en acheter une autre pour 8 appareils supplémentaires.",
+    
     [k.OTHER_SETTINGS]: "Autres Paramètres",
     [k.PERSIST_VARIABLES]: "Persister les Variables",
     [k.PERSIST_VARIABLES_DESCRIPTION]:

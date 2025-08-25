@@ -90,24 +90,7 @@ export const de = {
         "Inhalt der Aufforderung. Verwenden Sie {{}}, um eine Variable zu kennzeichnen. Bsp.: {{name}} ist ein {{adjektiv}} {{substantiv}}",
     [k.DESCRIPTION_PLACEHOLDER]: "Eine kurze Beschreibung der Aufforderung.",
     [k.ENTER_TAG]: "Drücken Sie Enter, um ein Tag hinzuzufügen",
-    [k.UPGRADE_TO_PRO]: "Auf Pro upgraden",
-    [k.FEATURES]: "Funktionen:",
-    [k.NO_ADS]: "Keine Werbung! Entfernt zweimonatliche Popup-Fenster & Textanzeigen.",
-    [k.ACCESS_TO_NEW_THEMES]:
-        "Zugang zu neuen Themen erhalten, einschließlich Cyberpunk, Luxus und mehr!",
-    [k.SUPPORT_A_SMALL_DEVELOPER]: "Unterstütze einen kleinen Entwickler",
-    [k.BUY_A_PRO_LICENSE]: "PRO-LIZENZ KAUFEN",
-    [k.LIKED_THEME]: "Hat dir das Thema gefallen? Auf Pro upgraden!",
-    [k.ACTIVATE_PRO_LICENSE]: "Pro-Lizenz aktivieren",
-    [k.MANAGE_PRO_SUBSCRIPTION]: "Pro-Abonnement verwalten",
-    [k.ACTIVATE_LICENSE_IN_SETTINGS]:
-        "Sie können Ihre Lizenz auch jederzeit in den Einstellungen aktivieren",
-    [k.LICENSE_KEY]: "Lizenzschlüssel",
-    [k.ACTIVATE]: "Aktivieren",
-    [k.CANCEL_MY_SUBSCRIPTION]: "Mein Abonnement kündigen",
-    [k.SUCCESSFULLY_ACTIVATED_PRO]: "Pro erfolgreich aktiviert!",
-    [k.ERROR_ACTIVATING_PRO]:
-        "Fehler bei der Aktivierung von Pro. Stellen Sie sicher, dass Ihr Lizenzschlüssel korrekt ist",
+    
     [k.THEME]: "Thema",
     [k.WINTER]: "Winter",
     [k.LIGHT]: "Hell",
@@ -132,8 +115,7 @@ export const de = {
         "Sind Sie sicher, dass Sie diesen Aufforderungstext löschen möchten?",
     [k.CANCEL]: "Abbrechen",
     [k.DELETE_PROMPT]: "Aufforderungstext löschen",
-    [k.OUT_OF_SEATS]:
-        "Sie haben keine Lizenzen mehr übrig. Bitte erwerben Sie eine weitere für 8 zusätzliche Geräte.",
+    
     [k.OTHER_SETTINGS]: "Andere Einstellungen",
     [k.PERSIST_VARIABLES]: "Variablen beibehalten",
     [k.PERSIST_VARIABLES_DESCRIPTION]:

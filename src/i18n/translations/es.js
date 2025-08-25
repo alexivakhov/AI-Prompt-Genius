@@ -99,23 +99,7 @@ export const es = {
         "Contenido de la indicación. Utilice {{}} para denotar una variable. Ej: {{nombre}} es un {{adjetivo}} {{sustantivo}}",
     [k.DESCRIPTION_PLACEHOLDER]: "Una breve descripción de la indicación.",
     [k.ENTER_TAG]: "Presione enter para agregar una etiqueta",
-    [k.UPGRADE_TO_PRO]: "Actualizar a Pro",
-    [k.FEATURES]: "Características:",
-    [k.NO_ADS]: "¡Sin anuncios! Elimina ventanas emergentes bimensuales y anuncios de texto.",
-    [k.ACCESS_TO_NEW_THEMES]: "Obtén acceso a nuevos temas, incluidos ciberpunk, lujo y más.",
-    [k.SUPPORT_A_SMALL_DEVELOPER]: "Apoya a un pequeño desarrollador",
-    [k.BUY_A_PRO_LICENSE]: "COMPRAR UNA LICENCIA PRO",
-    [k.LIKED_THEME]: "¿Te gustó ese tema? ¡Actualiza a Pro!",
-    [k.ACTIVATE_PRO_LICENSE]: "Activar Licencia Pro",
-    [k.MANAGE_PRO_SUBSCRIPTION]: "Gestionar Suscripción Pro",
-    [k.ACTIVATE_LICENSE_IN_SETTINGS]:
-        "También puedes activar tu licencia en cualquier momento en la configuración",
-    [k.LICENSE_KEY]: "Clave de Licencia",
-    [k.ACTIVATE]: "Activar",
-    [k.CANCEL_MY_SUBSCRIPTION]: "Cancelar mi Suscripción",
-    [k.SUCCESSFULLY_ACTIVATED_PRO]: "¡Pro Activado con Éxito!",
-    [k.ERROR_ACTIVATING_PRO]:
-        "Error al activar pro. Asegúrate de que tu clave de licencia sea precisa",
+    
     [k.THEME]: "Tema",
     [k.WINTER]: "Invierno",
     [k.LIGHT]: "Claro",
@@ -139,8 +123,7 @@ export const es = {
     [k.CONFIRM_DELETE_PROMPT]: "¿Estás seguro de que quieres eliminar este mensaje?",
     [k.CANCEL]: "Cancelar",
     [k.DELETE_PROMPT]: "Eliminar mensaje",
-    [k.OUT_OF_SEATS]:
-        "Se ha quedado sin licencias con esta clave de licencia. Por favor, compre otra para 8 dispositivos adicionales.",
+    
     [k.OTHER_SETTINGS]: "Otros Ajustes",
     [k.PERSIST_VARIABLES]: "Persistir Variables",
     [k.PERSIST_VARIABLES_DESCRIPTION]:

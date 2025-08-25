@@ -99,23 +99,7 @@ export const it = {
         "Contenuto del prompt. Usa {{}} per indicare una variabile. Es: {{name}} è un {{adjective}} {{noun}}",
     [k.DESCRIPTION_PLACEHOLDER]: "Una breve descrizione del prompt.",
     [k.ENTER_TAG]: "Premi invio per aggiungere un tag",
-    [k.UPGRADE_TO_PRO]: "Passa a Pro",
-    [k.FEATURES]: "Caratteristiche:",
-    [k.NO_ADS]: "Nessuna pubblicità! Rimuove finestre popup bimestrali e annunci testuali.",
-    [k.ACCESS_TO_NEW_THEMES]: "Ottieni l'accesso a nuovi temi, inclusi cyberpunk, lusso e altri!",
-    [k.SUPPORT_A_SMALL_DEVELOPER]: "Supporta uno sviluppatore indipendente",
-    [k.BUY_A_PRO_LICENSE]: "ACQUISTA UNA LICENZA PRO",
-    [k.LIKED_THEME]: "Ti è piaciuto quel tema? Passa a Pro!",
-    [k.ACTIVATE_PRO_LICENSE]: "Attiva Licenza Pro",
-    [k.MANAGE_PRO_SUBSCRIPTION]: "Gestisci Abbonamento Pro",
-    [k.ACTIVATE_LICENSE_IN_SETTINGS]:
-        "Puoi anche attivare la tua licenza in qualsiasi momento nelle impostazioni",
-    [k.LICENSE_KEY]: "Chiave di Licenza",
-    [k.ACTIVATE]: "Attiva",
-    [k.CANCEL_MY_SUBSCRIPTION]: "Annulla il mio abbonamento",
-    [k.SUCCESSFULLY_ACTIVATED_PRO]: "Pro attivato con successo!",
-    [k.ERROR_ACTIVATING_PRO]:
-        "Errore nell'attivazione di Pro. Assicurati che la tua chiave di licenza sia corretta",
+    
     [k.THEME]: "Tema",
     [k.WINTER]: "Inverno",
     [k.LIGHT]: "Chiaro",
@@ -139,8 +123,7 @@ export const it = {
     [k.CONFIRM_DELETE_PROMPT]: "Sei sicuro di voler eliminare questo prompt?",
     [k.CANCEL]: "Annulla",
     [k.DELETE_PROMPT]: "Elimina Prompt",
-    [k.OUT_OF_SEATS]:
-        "Hai esaurito i posti disponibili con questa chiave di licenza. Si prega di acquistarne un'altra per ulteriori 8 dispositivi.",
+    
     [k.OTHER_SETTINGS]: "Altre Impostazioni",
     [k.PERSIST_VARIABLES]: "Persisti Variabili",
     [k.PERSIST_VARIABLES_DESCRIPTION]:

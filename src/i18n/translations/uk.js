@@ -90,24 +90,7 @@ export const uk = {
         "Вміст підказки. Використовуйте {{}} для позначення змінної. Напр.: {{name}} є {{adjective}} {{noun}}",
     [k.DESCRIPTION_PLACEHOLDER]: "Короткий опис підказки.",
     [k.ENTER_TAG]: "Натисніть Enter, щоб додати тег",
-    [k.UPGRADE_TO_PRO]: "Оновити до Pro",
-    [k.FEATURES]: "Особливості:",
-    [k.NO_ADS]: "Без реклами! Видаляє попап-вікна двічі на місяць та текстові оголошення.",
-    [k.ACCESS_TO_NEW_THEMES]:
-        "Отримайте доступ до нових тем, включаючи кіберпанк, розкіш та багато іншого!",
-    [k.SUPPORT_A_SMALL_DEVELOPER]: "Підтримайте невеликого розробника",
-    [k.BUY_A_PRO_LICENSE]: "ПРИДБАТИ ЛІЦЕНЗІЮ PRO",
-    [k.LIKED_THEME]: "Сподобалась тема? Оновіть до Pro!",
-    [k.ACTIVATE_PRO_LICENSE]: "Активувати ліцензію Pro",
-    [k.MANAGE_PRO_SUBSCRIPTION]: "Керування підпискою Pro",
-    [k.ACTIVATE_LICENSE_IN_SETTINGS]:
-        "Ви також можете активувати свою ліцензію в будь-який час у налаштуваннях",
-    [k.LICENSE_KEY]: "Ліцензійний ключ",
-    [k.ACTIVATE]: "Активувати",
-    [k.CANCEL_MY_SUBSCRIPTION]: "Скасувати мою підписку",
-    [k.SUCCESSFULLY_ACTIVATED_PRO]: "Pro успішно активовано!",
-    [k.ERROR_ACTIVATING_PRO]:
-        "Помилка активації pro. Переконайтеся, що ваш ліцензійний ключ вірний",
+    
     [k.THEME]: "Тема",
     [k.WINTER]: "Зима",
     [k.LIGHT]: "Світло",
@@ -131,8 +114,7 @@ export const uk = {
     [k.CONFIRM_DELETE_PROMPT]: "Ви впевнені, що хочете видалити цей запит?",
     [k.CANCEL]: "Скасувати",
     [k.DELETE_PROMPT]: "Видалити запит",
-    [k.OUT_OF_SEATS]:
-        "У вас закінчилися місця за цим ліцензійним ключем. Будь ласка, придбайте ще один на додаткові 8 пристроїв.",
+    
     [k.OTHER_SETTINGS]: "Інші Налаштування",
     [k.PERSIST_VARIABLES]: "Зберігати Змінні",
     [k.PERSIST_VARIABLES_DESCRIPTION]:

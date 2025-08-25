@@ -99,21 +99,7 @@ export const en = {
         "Prompt content. Use {{}} to denote a variable. Ex: {{name}} is a {{adjective}} {{noun}}",
     [k.DESCRIPTION_PLACEHOLDER]: "A brief description of the prompt.",
     [k.ENTER_TAG]: "Press enter to add a tag",
-    [k.UPGRADE_TO_PRO]: "Upgrade to Pro",
-    [k.FEATURES]: "Features:",
-    [k.NO_ADS]: "No ads! Removes bimonthly popup windows & text ads.",
-    [k.ACCESS_TO_NEW_THEMES]: "Get access to new themes, including cyberpunk, luxury, and more!",
-    [k.SUPPORT_A_SMALL_DEVELOPER]: "Support a small developer",
-    [k.BUY_A_PRO_LICENSE]: "BUY A PRO LICENSE",
-    [k.LIKED_THEME]: "Liked that theme? Upgrade to Pro!",
-    [k.ACTIVATE_PRO_LICENSE]: "Activate Pro License",
-    [k.MANAGE_PRO_SUBSCRIPTION]: "Manage Pro Subscription",
-    [k.ACTIVATE_LICENSE_IN_SETTINGS]: "You can also activate your license anytime in settings",
-    [k.LICENSE_KEY]: "License Key", // Assuming you want the placeholder translated as well
-    [k.ACTIVATE]: "Activate",
-    [k.CANCEL_MY_SUBSCRIPTION]: "Cancel my Subscription",
-    [k.SUCCESSFULLY_ACTIVATED_PRO]: "Successfully Activated Pro!",
-    [k.ERROR_ACTIVATING_PRO]: "Error activating pro. Make sure your license key is accurate",
+    
     [k.THEME]: "Theme",
     [k.WINTER]: "Winter",
     [k.LIGHT]: "Light",
@@ -137,8 +123,7 @@ export const en = {
     [k.CONFIRM_DELETE_PROMPT]: "Are you sure you want to delete this prompt?",
     [k.CANCEL]: "Cancel",
     [k.DELETE_PROMPT]: "Delete Prompt",
-    [k.OUT_OF_SEATS]:
-        "You are out of seats with this license key. Please purchase another for an additional 8 devices.",
+    
     [k.OTHER_SETTINGS]: "Other Settings",
     [k.PERSIST_VARIABLES]: "Persist Variables",
     [k.PERSIST_VARIABLES_DESCRIPTION]:
